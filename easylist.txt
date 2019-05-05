@@ -6,4 +6,4 @@
 !
 
 ||remtoaku.net
-||yts.am/*.svg
+||yts.am/assets/*.svg
