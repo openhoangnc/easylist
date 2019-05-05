@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Title: OpenHoangNC's EasyList
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/openhoangnc/easylist
+! Licence: https://github.com/openhoangnc/easylist/blob/master/LICENSE
+!
+
