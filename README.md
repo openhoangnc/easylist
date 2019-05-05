@@ -1,0 +1,2 @@
+# easylist
+Adblock filter list
