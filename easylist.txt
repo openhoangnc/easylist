@@ -7,4 +7,5 @@
 
 ||remtoaku.net
 *.funysmile11.life
+realcenter-mobileapps2.com
 ||yts.am/assets/*.svg
