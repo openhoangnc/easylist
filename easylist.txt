@@ -6,4 +6,5 @@
 !
 
 ||remtoaku.net
+||*.funysmile11.life
 ||yts.am/assets/*.svg
