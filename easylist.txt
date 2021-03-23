@@ -171,3 +171,14 @@
 ||zryydi.com
 ||watchmymoney13.live
 ||weaveradrenaline.com
+
+||memuplay.com^
+||taimienphi.vn^
+||error.taobao.com^
+||err.taobao.com^
+||asiarchv.click^
+||jomtingi.net^
+||tipcuoc88.com^
+||googleadservices.com^$important
+||app.adjust.com^$important
+||launches.appsflyer.com^$important
