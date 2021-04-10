@@ -181,3 +181,6 @@
 ||tipcuoc88.com
 ||app.adjust.com
 ||launches.appsflyer.com
+
+||buzzadexchange.com
+||esurveybox.com
