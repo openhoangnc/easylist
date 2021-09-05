@@ -5,6 +5,12 @@
 ! Licence: https://github.com/openhoangnc/easylist/blob/master/LICENSE
 !
 
+||download.com.vn
+||download.vn
+||taimienphi.vn
+||down.vn
+||lienket.vn
+
 ||gitmemory.com
 ||remtoaku.net
 ||funysmile11.life
