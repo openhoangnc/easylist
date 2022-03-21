@@ -6,6 +6,9 @@
 !
 
 ||itim.vn
+||coccoc.vn
+||coccoc.com
+||coccocqc.com
 
 ||download.com.vn
 ||download.vn
@@ -192,8 +195,6 @@
 ||cado24h.vn
 ||cgi.connect.qq.com
 ||click.vn
-||coccoc.com
-||coccocqc.com
 ||codeonclick.com
 ||crashlytics.com
 ||dangky888.com
