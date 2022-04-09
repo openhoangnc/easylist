@@ -5,6 +5,8 @@
 ! Licence: https://github.com/openhoangnc/easylist/blob/master/LICENSE
 !
 
+||measurelib.com
+
 ||itim.vn
 ||coccoc.vn
 ||coccoc.com
