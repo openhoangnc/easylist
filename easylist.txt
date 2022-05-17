@@ -5,6 +5,15 @@
 ! Licence: https://github.com/openhoangnc/easylist/blob/master/LICENSE
 !
 
+@@||cdn.jsdelivr.net^
+@@||googleapis.com^
+@@||gtm.udemy.com^$important
+@@||cdn.sift.com^$important
+@@||udemy-courses.pxf.io^$important
+@@||coursera.pxf.io^$important
+@@||zalo-file-doc10.zdn.vn^$important
+@@||pixel.chotot.com^$important
+
 ||www.tangsinhlynam.net
 ||www.nhansamtaytang.com
 ||www.samkyvuong.net
