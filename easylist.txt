@@ -5,6 +5,38 @@
 ! Licence: https://github.com/openhoangnc/easylist/blob/master/LICENSE
 !
 
+||www.tangsinhlynam.net
+||www.nhansamtaytang.com
+||www.samkyvuong.net
+||baogia.24h.com.vn
+||api.kinghub.vn
+||diromalxx.com
+||byluxrayor.com
+||maulddkjuxpilj.com
+||pic1025.com
+||api.affmates.com
+||ok.ru
+||18hub.net
+||www.i99906.com
+||www.vt-8888.com
+||api.i99906.com
+||csi.20icipp.com
+||ntp.gwadar.cn
+||tuoinung.com
+||sieukhungzz.net
+||8xbet06.com
+||docbaotrungqua.thanhnien.vn
+||api.kinghub.vn
+||ingest.sentry.io
+||adtrack.c-sharpcorner.com
+||default.exp-tas.com
+||smoot-feedback.v.aaplimg.com
+||fbs.smoot.apple.com
+||st-raovat.vnecdn.net
+||raovatvn.api.useinsider.com
+||raovat.vnexpress.net
+||raovat.tuoitre.vn
+
 ||measurelib.com
 
 ||itim.vn
