@@ -44,6 +44,9 @@
 !samsung
 ||business.samsungusa.com
 
+||trng.live
+||chich028.live
+||chich.live
 ||i-raovat.vnecdn.net^$important
 ||hw.sdk.functionads.com^$important
 ||linkhay.com^$important
