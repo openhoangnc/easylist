@@ -83,6 +83,7 @@
 ||thnh.live
 ||mlem.live
 ||many.fan
+||gaishow.live
 
 ||i-raovat.vnecdn.net^$important
 ||hw.sdk.functionads.com^$important
