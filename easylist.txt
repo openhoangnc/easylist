@@ -13,6 +13,11 @@
 @@||coursera.pxf.io^$important
 @@||zalo-file-doc10.zdn.vn^$important
 
+||gailove.com^$important
+||inkbio.me^$important
+||biolink.com.vn^$important
+/\.(click|live|vip|pub)$/
+
 ||new88.com
 ||new88viet.com
 ||w88goal.com
