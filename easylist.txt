@@ -13,6 +13,7 @@
 @@||coursera.pxf.io^$important
 @@||zalo-file-doc10.zdn.vn^$important
 
+||mintnav.com
 ||gailove.com^$important
 ||inkbio.me^$important
 ||biolink.com.vn^$important
