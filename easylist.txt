@@ -4,6 +4,29 @@
 ! Homepage: https://github.com/openhoangnc/easylist
 ! Licence: https://github.com/openhoangnc/easylist/blob/master/LICENSE
 !
+@@||default.exp-tas.com^$important
+@@||r.stripe.com^$important
+@@||browser.pipe.aria.microsoft.com^$important
+@@||upload.xboxlive.com^$important
+@@||manifest.googlevideo.com^$important
+@@||careers.mercari.com^$important
+
+||sentry.mservice.io^$important
+||sense.mservice.io^$important
+||checkip.momo.vn^$important
+||bongdawap.com^$important
+||soikeovip.co^$important
+||tructiepbongda365.com^$important
+||bongda12h.com^$important
+||image.javsex.day^$important
+||vlxxtube.link^$important
+||thefap.net^$important
+||xem.anhvl.net^$important
+||anhvl.net^$important
+||anhvl.co^$important
+||phym18.tube^$important
+||xemphim8k.com^$important
+
 
 @@||0img.hitv.com^$important
 @@||1img.hitv.com^$important
