@@ -530,4 +530,3 @@
 ||buzzadexchange.com
 ||esurveybox.com
 ||exness.com
-||in-addr.arpa
