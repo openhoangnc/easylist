@@ -5,5 +5,4 @@
 ! Licence: https://github.com/openhoangnc/easylist/blob/master/LICENSE
 !
 
-||.click
-/\.(click|live|vip|pub|beauty)$/
+/\.(click|live|vip|pub|beauty|cfd|sbs|shops|autos|boats|bond|hair|homes|lat|lol|makeup|mom|monster|motorcycles|pics|quest|rest|skin|yachts|fun|online|website|life|bar|ink|top|run|vin|date|mem|win)$/
