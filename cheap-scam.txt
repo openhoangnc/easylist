@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Title: OpenHoangNC's cheap scam list
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/openhoangnc/easylist
+! Licence: https://github.com/openhoangnc/easylist/blob/master/LICENSE
+!
+
+||.click
+/\.(click|live|vip|pub|beauty)$/

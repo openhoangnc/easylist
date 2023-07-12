@@ -99,7 +99,6 @@
 ||gailove.com^$important
 ||inkbio.me^$important
 ||biolink.com.vn^$important
-/\.(click|live|vip|pub|beauty)$/
 
 ||new88.com
 ||new88viet.com
