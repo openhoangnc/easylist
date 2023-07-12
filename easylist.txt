@@ -99,6 +99,7 @@
 ||gailove.com^$important
 ||inkbio.me^$important
 ||biolink.com.vn^$important
+||camera1.xyz^$important
 
 ||new88.com
 ||new88viet.com

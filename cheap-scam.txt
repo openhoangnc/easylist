@@ -7,3 +7,5 @@
 
 /\.(click|live|vip|pub|beauty|cfd|sbs|shops|autos|boats|bond|hair|homes|lat|lol|makeup|mom|monster|motorcycles|pics|quest|rest|skin|yachts|fun|online|website|life|bar|ink|top|run|vin|date|mem|win)$/
 /\.(degree|wtf|gq|zone|fyi|voto|cyou|vg)$/
+/\.(one|link|tokyo)$/
+/\.(autos|bar|beauty|bio|boats|bond|cam|cfd|click|cyou|digital|fun|gay|guru|hair|homes|ink|lat|life|lol|makeup|media|mom|monster|motorcycles|online|pics|pro|quest|rest|sbs|shop|site|skin|space|store|tattoo|today|top|website|wiki|world|xyz|yachts)$/
