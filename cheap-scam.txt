@@ -6,3 +6,4 @@
 !
 
 /\.(click|live|vip|pub|beauty|cfd|sbs|shops|autos|boats|bond|hair|homes|lat|lol|makeup|mom|monster|motorcycles|pics|quest|rest|skin|yachts|fun|online|website|life|bar|ink|top|run|vin|date|mem|win)$/
+/\.(degree|wtf|gq|zone|fyi|voto)$/
